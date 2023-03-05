@@ -1,10 +1,12 @@
 C:\ArgentinaPrograma\Proyecto Final\BackEnd\src\main\java\com\portfolio\bma\Security\Dto\LoginUsuario.java
+C:\ArgentinaPrograma\Proyecto Final\BackEnd\src\main\java\com\portfolio\bma\Entity\Proyecto.java
 C:\ArgentinaPrograma\Proyecto Final\BackEnd\src\main\java\com\portfolio\bma\Security\Service\UsuarioService.java
 C:\ArgentinaPrograma\Proyecto Final\BackEnd\src\main\java\com\portfolio\bma\Security\Entity\UsuarioPrincipal.java
 C:\ArgentinaPrograma\Proyecto Final\BackEnd\src\main\java\com\portfolio\bma\Controller\PersonaController.java
 C:\ArgentinaPrograma\Proyecto Final\BackEnd\src\main\java\com\portfolio\bma\Security\Repository\iRolRepository.java
 C:\ArgentinaPrograma\Proyecto Final\BackEnd\src\main\java\com\portfolio\bma\Service\Shys.java
 C:\ArgentinaPrograma\Proyecto Final\BackEnd\src\main\java\com\portfolio\bma\Security\Entity\Rol.java
+C:\ArgentinaPrograma\Proyecto Final\BackEnd\src\main\java\com\portfolio\bma\Controller\CProyecto.java
 C:\ArgentinaPrograma\Proyecto Final\BackEnd\src\main\java\com\portfolio\bma\Security\jwt\JwtTokenFilter.java
 C:\ArgentinaPrograma\Proyecto Final\BackEnd\src\main\java\com\portfolio\bma\Security\Dto\NuevoUsuario.java
 C:\ArgentinaPrograma\Proyecto Final\BackEnd\src\main\java\com\portfolio\bma\Security\Repository\iUsuarioRepository.java
@@ -13,6 +15,7 @@ C:\ArgentinaPrograma\Proyecto Final\BackEnd\src\main\java\com\portfolio\bma\Secu
 C:\ArgentinaPrograma\Proyecto Final\BackEnd\src\main\java\com\portfolio\bma\Controller\CEducacion.java
 C:\ArgentinaPrograma\Proyecto Final\BackEnd\src\main\java\com\portfolio\bma\Security\Controller\Mensaje.java
 C:\ArgentinaPrograma\Proyecto Final\BackEnd\src\main\java\com\portfolio\bma\Security\Dto\JwtDto.java
+C:\ArgentinaPrograma\Proyecto Final\BackEnd\src\main\java\com\portfolio\bma\Dto\dtoProyecto.java
 C:\ArgentinaPrograma\Proyecto Final\BackEnd\src\main\java\com\portfolio\bma\Repository\IPersonaRepository.java
 C:\ArgentinaPrograma\Proyecto Final\BackEnd\src\main\java\com\portfolio\bma\Security\Entity\Usuario.java
 C:\ArgentinaPrograma\Proyecto Final\BackEnd\src\main\java\com\portfolio\bma\Security\Service\UserDetailsImpl.java
@@ -23,6 +26,7 @@ C:\ArgentinaPrograma\Proyecto Final\BackEnd\src\main\java\com\portfolio\bma\Serv
 C:\ArgentinaPrograma\Proyecto Final\BackEnd\src\main\java\com\portfolio\bma\Repository\REducacion.java
 C:\ArgentinaPrograma\Proyecto Final\BackEnd\src\main\java\com\portfolio\bma\Controller\CHys.java
 C:\ArgentinaPrograma\Proyecto Final\BackEnd\src\main\java\com\portfolio\bma\Entity\hys.java
+C:\ArgentinaPrograma\Proyecto Final\BackEnd\src\main\java\com\portfolio\bma\Repository\RProyecto.java
 C:\ArgentinaPrograma\Proyecto Final\BackEnd\src\main\java\com\portfolio\bma\Dto\dtoPersona.java
 C:\ArgentinaPrograma\Proyecto Final\BackEnd\src\main\java\com\portfolio\bma\Entity\Persona.java
 C:\ArgentinaPrograma\Proyecto Final\BackEnd\src\main\java\com\portfolio\bma\Repository\Rhys.java
@@ -33,6 +37,7 @@ C:\ArgentinaPrograma\Proyecto Final\BackEnd\src\main\java\com\portfolio\bma\Secu
 C:\ArgentinaPrograma\Proyecto Final\BackEnd\src\main\java\com\portfolio\bma\Secutiry\MainSecurity.java
 C:\ArgentinaPrograma\Proyecto Final\BackEnd\src\main\java\com\portfolio\bma\Service\ImpPersonaService.java
 C:\ArgentinaPrograma\Proyecto Final\BackEnd\src\main\java\com\portfolio\bma\Service\Seducacion.java
+C:\ArgentinaPrograma\Proyecto Final\BackEnd\src\main\java\com\portfolio\bma\Service\SProyecto.java
 C:\ArgentinaPrograma\Proyecto Final\BackEnd\src\main\java\com\portfolio\bma\Dto\dtoEducacion.java
 C:\ArgentinaPrograma\Proyecto Final\BackEnd\src\main\java\com\portfolio\bma\Entity\Experiencia.java
 C:\ArgentinaPrograma\Proyecto Final\BackEnd\src\main\java\com\portfolio\bma\Security\Controller\AuthController.java
